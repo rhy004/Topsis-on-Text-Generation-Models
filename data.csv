@@ -1,0 +1,8 @@
+Model,Training Steps,Tokenizer Size,Sequence Length,Parameters (Millions),Perplexity
+GPT-2,117,1.5,1024,117,20.1
+GPT-3 (small),125,1.5,2048,125,15.4
+DistilGPT,82,6.7,512,82,25.7
+BERT-based OpenAI GPT,117,1.5,1024,117,22.3
+T5 (small),60,0.815,512,60,18.9
+Transformer-XL,257,17,1024,257,23.5
+CTRL,407,33,512,407,21.2
